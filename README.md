@@ -1,1 +1,2 @@
 # git.face
+##project notes
